@@ -6,5 +6,5 @@
 
 1) Foundations
 
-- Getting Startted
+- Getting Started
   - Insertion Sort 
