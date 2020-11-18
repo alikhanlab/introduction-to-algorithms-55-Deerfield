@@ -5,7 +5,8 @@
 # Algorithms
 
 1) Divide and Conquer
-    1. Binary Search
+    1. Recurrence Relation and Master's Theorem
+    2. Binary Search
     
 2) Greedy Method
 
