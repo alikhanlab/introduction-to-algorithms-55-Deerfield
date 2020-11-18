@@ -5,7 +5,8 @@
 # Algorithms
 
 1) Divide and Conquer
-
+    1. Binary Search
+    
 2) Greedy Method
 
 3) Dynamic Programming
