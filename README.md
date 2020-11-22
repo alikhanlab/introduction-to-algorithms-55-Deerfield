@@ -7,7 +7,7 @@
 1) Divide and Conquer
     1. Recurrence Relation and Master's Theorem
     2. Binary Search
-    
+    3. Heap. HeapSort
 2) Greedy Method
 
 3) Dynamic Programming
