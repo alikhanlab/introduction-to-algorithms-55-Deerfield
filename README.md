@@ -8,6 +8,9 @@
     1. Recurrence Relation and Master's Theorem
     2. Binary Search
     3. Heap. HeapSort
+    4. Merge Sort.
+        - 2-way Iterative Merge Sort
+        - Recursive Merge Sort
 2) Greedy Method
 
 3) Dynamic Programming
