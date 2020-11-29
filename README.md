@@ -11,6 +11,7 @@
     4. Merge Sort.
         - 2-way Iterative Merge Sort
         - Recursive Merge Sort
+    5. Quick Sort.
 2) Greedy Method
 
 3) Dynamic Programming
