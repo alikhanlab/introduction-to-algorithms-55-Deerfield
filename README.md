@@ -13,6 +13,8 @@
         - Recursive Merge Sort
     5. Quick Sort.
 2) Greedy Method
+    1. Greedy Method Intuition.
+    2. Fractional Knapsack - Greedy Method
 
 3) Dynamic Programming
 
