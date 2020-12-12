@@ -15,8 +15,17 @@
 2) Greedy Method
     1. Greedy Method Intuition.
     2. Fractional Knapsack - Greedy Method
+    
+    Covered topics, not yet implemented:
+    1. Job Sequencing with Deadlines - Greedy Method.
+    2. Optimal Merge Pattern - Greedy Method.
+    3. Huffman Coding - Greedy Method
+    4. Prim's Algorithm
+    5. Kruskal's Algorithm
+    6. Dijkrista Algorithm
 
 3) Dynamic Programming
+    1. Principle of Optimality and Fibonacci Example
 
 4) Backtracking
 
